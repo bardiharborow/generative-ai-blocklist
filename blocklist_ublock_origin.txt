@@ -6,6 +6,7 @@ github.com##.AppHeader-CopilotChat
 github.com##.copilotPreview__container
 github.com##a[data-testid="side-nav-menu-item-COPILOT"]:upward(li)
 github.com##a[data-testid="side-nav-menu-item-MCP_REGISTRY"]:upward(li)
+github.com##button[data-testid="copilot-ask-menu"]
 github.com##div[data-testid="sidebar-development-section"] button[data-testid="open-in-copilot-agent-button"]:upward(div[class^="DevelopmentSection-module__developmentSectionContainer"])
 github.com##li[class^="prc-ActionList-ActionListItem"] a[href="/copilot/agents"]:upward(li)
 github.com##react-app[app-name="repo-creation"] .Timeline-Item:has(.octicon-copilot)
