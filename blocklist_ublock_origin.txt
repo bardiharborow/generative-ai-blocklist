@@ -11,3 +11,6 @@ github.com##li[class^="prc-ActionList-ActionListItem"] a[href="/copilot/agents"]
 github.com##react-app[app-name="repo-creation"] .Timeline-Item:has(.octicon-copilot)
 github.com##react-partial[partial-name="dashboard-lists"] div[class^="DashboardListView-module__List"]:has(h3:has-text(Agent sessions))
 mail.proton.me##button[data-testid="composer:use-assistant-button"]:upward(div)
+stackoverflow.com###hide-this-if-you-want
+stackoverflow.com###mainbar > div:has(#ask-stack-initial-question)
+stackoverflow.com###nav-askstack
