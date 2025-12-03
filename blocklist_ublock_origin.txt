@@ -1,0 +1,12 @@
+! Homepage: https://github.com/bardiharborow/generative-ai-blocklist
+! Title: Generative AI blocklist
+! Expires: 1 day
+
+github.com##.AppHeader-CopilotChat
+github.com##.copilotPreview__container
+github.com##a[data-testid="side-nav-menu-item-COPILOT"]:upward(li)
+github.com##a[data-testid="side-nav-menu-item-MCP_REGISTRY"]:upward(li)
+github.com##div[data-testid="sidebar-development-section"] button[data-testid="open-in-copilot-agent-button"]:upward(div[class^="DevelopmentSection-module__developmentSectionContainer"])
+github.com##li[class^="prc-ActionList-ActionListItem"] a[href="/copilot/agents"]:upward(li)
+github.com##react-app[app-name="repo-creation"] .Timeline-Item:has(.octicon-copilot)
+github.com##react-partial[partial-name="dashboard-lists"] div[class^="DashboardListView-module__List"]:has(h3:has-text(Agent sessions))
