@@ -1,6 +1,6 @@
 ! Homepage: https://github.com/bardiharborow/generative-ai-blocklist
 ! Title: Generative AI blocklist
-! Expires: 1 day
+! Expires: 1 days
 
 github.com##.AppHeader-CopilotChat
 github.com##.copilotPreview__container
