@@ -20,4 +20,5 @@ stackoverflow.com###mainbar > div:has(#ask-stack-initial-question)
 stackoverflow.com###nav-askstack
 www.bing.com###b-scopeListItem-conv
 www.bing.com###b-scopeListItem-copilotsearch
+www.reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
 www.youtube.com###expandable-metadata
