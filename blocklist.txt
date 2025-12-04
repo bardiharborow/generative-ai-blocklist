@@ -3,6 +3,8 @@
 ! Title: Generative AI blocklist
 ! Expires: 1 days
 
+docs.google.com###docs-sidekick-gen-ai-promo-button-container
+drive.google.com,mail.google.com##div:has(> div[data-rp-placement-id="gemkick-pep-icon-callout-id"])
 github.com##.AppHeader-CopilotChat
 github.com##.copilotPreview__container
 github.com##button[data-testid="copilot-ask-menu"]
