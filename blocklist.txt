@@ -16,3 +16,5 @@ mail.proton.me##div:has(button[data-testid="composer:use-assistant-button"])
 stackoverflow.com###hide-this-if-you-want
 stackoverflow.com###mainbar > div:has(#ask-stack-initial-question)
 stackoverflow.com###nav-askstack
+www.bing.com###b-scopeListItem-conv
+www.bing.com###b-scopeListItem-copilotsearch
