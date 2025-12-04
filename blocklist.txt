@@ -20,3 +20,4 @@ stackoverflow.com###mainbar > div:has(#ask-stack-initial-question)
 stackoverflow.com###nav-askstack
 www.bing.com###b-scopeListItem-conv
 www.bing.com###b-scopeListItem-copilotsearch
+www.youtube.com###expandable-metadata
