@@ -7,13 +7,14 @@ docs.google.com###docs-sidekick-gen-ai-promo-button-container
 drive.google.com,mail.google.com##div:has(> div[data-rp-placement-id="gemkick-pep-icon-callout-id"])
 github.com##.AppHeader-CopilotChat
 github.com##.copilotPreview__container
+github.com##button[class^="prc-Button-ButtonBase"]:has(.octicon-agent)
 github.com##button[data-testid="copilot-ask-menu"]
 github.com##div[data-testid="sidebar-assignees-section"] div.width-full:has(> div > button .octicon-agent)
 github.com##div[data-testid="sidebar-development-section"] div[class^="DevelopmentSection-module__developmentSectionContainer"]:has(button[data-testid="open-in-copilot-agent-button"])
-github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[href="/copilot/agents"])
 github.com##li[class^="prc-ActionList-ActionListItem"]:has(.octicon-copilot)
 github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[data-testid="side-nav-menu-item-COPILOT"])
 github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[data-testid="side-nav-menu-item-MCP_REGISTRY"])
+github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[href="/copilot/agents"])
 github.com##react-app[app-name="repo-creation"] .Timeline-Item:has(.octicon-copilot)
 github.com##react-partial[partial-name="new-agent-task-button"]
 mail.proton.me##div:has(button[data-testid="composer:use-assistant-button"])
