@@ -16,8 +16,9 @@ github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[data-testid="side-n
 github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[data-testid="side-nav-menu-item-MCP_REGISTRY"])
 github.com##li[class^="prc-ActionList-ActionListItem"]:has(a[href="/copilot/agents"])
 github.com##react-app[app-name="repo-creation"] .Timeline-Item:has(.octicon-copilot)
+github.com##react-partial[partial-name="dashboard-lists"] div[class^="DashboardListView-module__List"]:has(h3:has-text(Agent sessions))
 github.com##react-partial[partial-name="new-agent-task-button"]
-mail.proton.me##div:has(button[data-testid="composer:use-assistant-button"])
+mail.proton.me##div:has(> button[data-testid="composer:use-assistant-button"])
 miro.com##div[data-testid="CreationBarTopButtons"]
 stackoverflow.com###hide-this-if-you-want
 stackoverflow.com###mainbar > div:has(#ask-stack-initial-question)
