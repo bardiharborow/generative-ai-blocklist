@@ -6,3 +6,4 @@
 docs.google.com###docs-sidekick-gen-ai-promo-button-container
 drive.google.com,mail.google.com##div:has(> div[data-rp-placement-id="gemkick-pep-icon-callout-id"])
 github.com##header.GlobalNav .hide-sm:has(> [class^="CopilotItems-module"])
+www.reddit.com##faceplate-search-input [slot="trailingContent"]
